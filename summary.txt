@@ -1,0 +1,8 @@
+Summary Statistics Insight:
+
+The dataset contains 9800 sales records between 2015 and 2018.
+The average order value is approximately $230, while the median is $54,
+indicating that a few large transactions significantly increase the mean.
+
+Sales values range from $0.44 to $22,638, suggesting the presence of
+high-value outliers in the dataset.
